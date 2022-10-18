@@ -1,3 +1,5 @@
 Bojour tout le monde!
-j'utilise git !!
+
+j'utilise git!
+
 git est un logiciel de gestion de versions décentralisé
