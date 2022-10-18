@@ -1,5 +1,3 @@
-Bojour tout le mo
-
+Bojour tout le monde!
 j'utilise git !!
-
-
+git est un logiciel de gestion de versions décentralisé
